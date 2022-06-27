@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\bin\Debug\net6.0\usingInterface.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\bin\Debug\net6.0\usingInterface.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\bin\Debug\net6.0\usingInterface.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\bin\Debug\net6.0\usingInterface.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\bin\Debug\net6.0\usingInterface.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\refint\usingInterface.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\usingInterface.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\usingInterface\usingInterface\obj\Debug\net6.0\ref\usingInterface.dll
