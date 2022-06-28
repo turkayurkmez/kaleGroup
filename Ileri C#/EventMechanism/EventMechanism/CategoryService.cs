@@ -9,10 +9,10 @@ namespace EventMechanism
     //1. Kim (hangi nesne) olayı fırlatacak?
     public class CategoryService
     {
-        //3. Olay nasıl bir metot taraçfından yakalanacak?
-        public delegate void CategoryAddedEventHandler (object sender, CategoryAddedEventArgs e);
+        //3. Olay nasıl bir metot tarafından yakalanacak?
+        //public delegate void CategoryAddedEventHandler (object sender, CategoryAddedEventArgs e);
         //5. Event tanımı nasıl olacak
-        public event CategoryAddedEventHandler CategoryAdded;
+        public event EventHandler<CategoryAddedEventArgs> CategoryAdded;
         public void AddCategory(Category category)
         {
             //2. Ne zaman?
