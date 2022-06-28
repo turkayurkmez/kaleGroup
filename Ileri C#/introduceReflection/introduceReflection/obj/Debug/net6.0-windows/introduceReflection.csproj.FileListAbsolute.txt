@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\bin\Debug\net6.0-windows\introduceReflection.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\bin\Debug\net6.0-windows\introduceReflection.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\bin\Debug\net6.0-windows\introduceReflection.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\bin\Debug\net6.0-windows\introduceReflection.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\bin\Debug\net6.0-windows\introduceReflection.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\refint\introduceReflection.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\introduceReflection.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introduceReflection\introduceReflection\obj\Debug\net6.0-windows\ref\introduceReflection.dll
