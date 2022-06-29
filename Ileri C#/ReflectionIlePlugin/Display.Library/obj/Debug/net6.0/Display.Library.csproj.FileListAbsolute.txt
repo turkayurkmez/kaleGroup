@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\bin\Debug\net6.0\Display.Library.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\bin\Debug\net6.0\Display.Library.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\bin\Debug\net6.0\Display.Library.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\bin\Debug\net6.0\Display.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\bin\Debug\net6.0\Display.SDK.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\refint\Display.Library.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\Display.Library.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Library\obj\Debug\net6.0\ref\Display.Library.dll

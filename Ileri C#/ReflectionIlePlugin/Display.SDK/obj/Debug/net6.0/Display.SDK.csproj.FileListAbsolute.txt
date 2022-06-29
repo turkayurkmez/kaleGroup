@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\bin\Debug\net6.0\Display.SDK.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\bin\Debug\net6.0\Display.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\bin\Debug\net6.0\Display.SDK.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\refint\Display.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\Display.SDK.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.SDK\obj\Debug\net6.0\ref\Display.SDK.dll

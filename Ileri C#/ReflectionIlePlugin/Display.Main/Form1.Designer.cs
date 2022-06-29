@@ -33,6 +33,8 @@
             this.pluginEkleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.textBoxX = new System.Windows.Forms.TextBox();
+            this.textBoxY = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -75,11 +77,27 @@
             this.panel1.Size = new System.Drawing.Size(845, 507);
             this.panel1.TabIndex = 1;
             // 
+            // textBoxX
+            // 
+            this.textBoxX.Location = new System.Drawing.Point(48, 51);
+            this.textBoxX.Name = "textBoxX";
+            this.textBoxX.Size = new System.Drawing.Size(100, 23);
+            this.textBoxX.TabIndex = 2;
+            // 
+            // textBoxY
+            // 
+            this.textBoxY.Location = new System.Drawing.Point(154, 51);
+            this.textBoxY.Name = "textBoxY";
+            this.textBoxY.Size = new System.Drawing.Size(100, 23);
+            this.textBoxY.TabIndex = 3;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(925, 678);
+            this.Controls.Add(this.textBoxY);
+            this.Controls.Add(this.textBoxX);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
@@ -99,5 +117,7 @@
         private ToolStripMenuItem pluginEkleToolStripMenuItem;
         private ToolStripSeparator toolStripMenuItem1;
         private Panel panel1;
+        private TextBox textBoxX;
+        private TextBox textBoxY;
     }
 }

@@ -15,3 +15,6 @@ C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Displ
 C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Main\obj\Debug\net6.0-windows\Display.Main.pdb
 C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Main\obj\Debug\net6.0-windows\Display.Main.genruntimeconfig.cache
 C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Main\obj\Debug\net6.0-windows\ref\Display.Main.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Main\bin\Debug\net6.0-windows\Display.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Main\bin\Debug\net6.0-windows\Display.SDK.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ReflectionIlePlugin\Display.Main\obj\Debug\net6.0-windows\Display.Main.csproj.CopyComplete

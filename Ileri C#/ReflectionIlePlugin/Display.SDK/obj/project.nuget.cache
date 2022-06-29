@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6trs/c/5t3DpEAaGAvv+hkL79O4T2cHxbGdBphla6m3vdIr8k5kHQp9Hn1nr76HCZY8QSJ2kXNNBOOh5WSZP/A==",
+  "dgSpecHash": "mEWt9RoSsC6XsYeit6EKokwG0MrjF+cyBM+PoAKBwfekbAMJOmeS/PsLeaF93V4fW/iURY+0aHUWmHYHdZ4zPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\KaleGrup\\Ileri C#\\ReflectionIlePlugin\\Display.SDK\\Display.SDK.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
