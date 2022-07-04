@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\bin\Debug\net6.0\TaskScenerios.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\bin\Debug\net6.0\TaskScenerios.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\bin\Debug\net6.0\TaskScenerios.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\bin\Debug\net6.0\TaskScenerios.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\bin\Debug\net6.0\TaskScenerios.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\refint\TaskScenerios.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\TaskScenerios.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\TaskScenerios\TaskScenerios\obj\Debug\net6.0\ref\TaskScenerios.dll

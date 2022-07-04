@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\bin\Debug\net6.0-windows\introThread.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\bin\Debug\net6.0-windows\introThread.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\bin\Debug\net6.0-windows\introThread.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\bin\Debug\net6.0-windows\introThread.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\bin\Debug\net6.0-windows\introThread.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\refint\introThread.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\introThread.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\introThread\introThread\obj\Debug\net6.0-windows\ref\introThread.dll

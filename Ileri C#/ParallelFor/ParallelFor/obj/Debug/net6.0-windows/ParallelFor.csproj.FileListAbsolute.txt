@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\bin\Debug\net6.0-windows\ParallelFor.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\bin\Debug\net6.0-windows\ParallelFor.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\bin\Debug\net6.0-windows\ParallelFor.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\bin\Debug\net6.0-windows\ParallelFor.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\bin\Debug\net6.0-windows\ParallelFor.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\refint\ParallelFor.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ParallelFor.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ParallelFor\ParallelFor\obj\Debug\net6.0-windows\ref\ParallelFor.dll

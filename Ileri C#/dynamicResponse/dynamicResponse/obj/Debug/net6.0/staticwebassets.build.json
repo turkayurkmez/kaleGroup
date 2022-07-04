@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OCP733X9fyCwgmLRjq5OaeXzS4Y/sOxOgX+/IpncH0U=",
+  "Source": "dynamicResponse",
+  "BasePath": "_content/dynamicResponse",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\bin\Debug\net6.0\ThreadingProblem.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\bin\Debug\net6.0\ThreadingProblem.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\bin\Debug\net6.0\ThreadingProblem.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\bin\Debug\net6.0\ThreadingProblem.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\bin\Debug\net6.0\ThreadingProblem.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\refint\ThreadingProblem.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ThreadingProblem.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\ThreadingProblem\ThreadingProblem\obj\Debug\net6.0\ref\ThreadingProblem.dll

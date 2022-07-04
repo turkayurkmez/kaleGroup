@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\bin\Debug\net6.0\CreateAndStartTask.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\bin\Debug\net6.0\CreateAndStartTask.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\bin\Debug\net6.0\CreateAndStartTask.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\bin\Debug\net6.0\CreateAndStartTask.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\bin\Debug\net6.0\CreateAndStartTask.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\refint\CreateAndStartTask.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\CreateAndStartTask.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\CreateAndStartTask\CreateAndStartTask\obj\Debug\net6.0\ref\CreateAndStartTask.dll

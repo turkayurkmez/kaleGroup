@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\bin\Debug\net6.0\dynamicKeyword.exe
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\bin\Debug\net6.0\dynamicKeyword.deps.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\bin\Debug\net6.0\dynamicKeyword.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\bin\Debug\net6.0\dynamicKeyword.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\bin\Debug\net6.0\dynamicKeyword.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\refint\dynamicKeyword.dll
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.pdb
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\dynamicKeyword.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\KaleGrup\Ileri C#\DynamicTypes\dynamicKeyword\obj\Debug\net6.0\ref\dynamicKeyword.dll
